@@ -3,11 +3,14 @@
 ### About me :thinking:
 I'm a beginner in front-end, and soon I will start studying full-stack!
 
+✅ So anxious to learn more.
+
+
 ### My first site :computer:
 
 I am developing an <a href="https://github.com/nicovnx/buydeas"><code>E-commerce</code></a> to gain experience, any suggestions you have send me pls :D
 
-✅ So anxious to learn more.
+
 
 ## My Social Medias
 
